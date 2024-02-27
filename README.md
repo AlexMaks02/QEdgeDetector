@@ -1,0 +1,2 @@
+# QEdgeDetector
+Quantum Edge Detection
