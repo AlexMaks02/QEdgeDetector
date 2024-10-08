@@ -1,9 +1,7 @@
 # QEdgeDetector
 Quantum Edge Detection
 
-This document proposes the final project for a quantum
-computing course, providing a overview of the current state
-and future potential of quantum edge detection. Additionally, it
+It
 explores quantum image encoding and conducts a pilot test based
 on the ”Quantum Edge Detection” work available in the Qiskit
 textbook [1]. The test employs a quantum algorithm for edge
