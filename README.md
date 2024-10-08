@@ -14,4 +14,4 @@ edges. The implementation is carried out on a quantum simulator
 demonstrating the results obtain with quantum computing in
 edge detection
 
-![plot](/code/Original_Image.png)
+![](./code/Original_Image.png)
