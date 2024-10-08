@@ -13,3 +13,5 @@ amplitudes and applies the Hadamard gate to extract image
 edges. The implementation is carried out on a quantum simulator
 demonstrating the results obtain with quantum computing in
 edge detection
+
+![plot](/code/Original_Image.png)
