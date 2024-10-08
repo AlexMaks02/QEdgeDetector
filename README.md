@@ -17,19 +17,24 @@ _Vertical Scan:_
   - Decrement gate: We can achieve this by a sequence of $[X(0), CX(0,1), CCX(0,1,2)]$ operations.
 
 **Real Horizontal Circuit**
-![Real Horizontal Circuit](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/real_horizontal_circuit.png)
+
+![](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/real_horizontal_circuit.png)
 
 **Reak Vertical Circuit**
-![Real Vertical Circuit](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/real_vertical_circuit.png)
+
+![](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/real_vertical_circuit.png)
 
 **Original Image**
-![Original Image](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/img03_grayScale.png)
+
+![](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/img03_grayScale.png)
 
 **Sobel Edge Detector**
-![Sobel Edge Detector](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/img03_Sobel.png)
+
+![](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/img03_Sobel.png)
 
 **Quantum Sobel Edge Detector**
-![Quantum Sobel Edge Detector](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/img03_QSobel.png)
+
+![](https://github.com/AlexMaks02/QEdgeDetector/blob/main/figs/img03_QSobel.png)
 
 
 ## Install required packages
