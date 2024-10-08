@@ -1,6 +1,8 @@
 # QEdgeDetector
 Quantum Edge Detection
 
+
+Emulates a Quantum Sobel Edge Detector in your local machine.
 It
 explores quantum image encoding and conducts a pilot test based
 on the ”Quantum Edge Detection” work available in the Qiskit
