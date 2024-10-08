@@ -14,4 +14,21 @@ edges. The implementation is carried out on a quantum simulator
 demonstrating the results obtain with quantum computing in
 edge detection
 
-![](./code/Original_Image.png)
+<h2 align="center"> A Simple Visual-Textual Baseline for Pedestrian Attribute Recognition </h2>
+
+<p align="center">
+  <img src="code/figs/Original_Image.png" width="75%">
+</p>
+
+### Install required packages
+
+Install dependencies with the following command:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Citation
+
+If you find our work helpful in your research, please cite it as:
+
