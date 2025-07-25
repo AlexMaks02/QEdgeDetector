@@ -123,7 +123,7 @@ qiskit-optimization==0.6.0
 qiskit-terra==0.45.1
 Quandl==3.7.0
 referencing==0.32.0
-requests==2.32.2
+requests==2.32.4
 requests-ntlm==1.1.0
 retworkx==0.13.2
 rfc3339-validator==0.1.4
